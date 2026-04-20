@@ -20,7 +20,7 @@ Currently studying Cybersecurity and expanding my knowledge in low-level and hig
   <img src="https://skillicons.dev/icons?i=java" height="50"/>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-  <img src="https://skillicons.dev/icons?i=springboot" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="50"/>
   <img src="https://skillicons.dev/icons?i=django" height="50"/>
 </p>
 
