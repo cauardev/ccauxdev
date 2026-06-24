@@ -31,10 +31,10 @@ Currently studying Cybersecurity and expanding my knowledge in low-level and hig
   <a href="https://github.com/cauardev">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/cauãrobson">
+  <a href="https://www.linkedin.com/in/cauãrobson" />
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/c4ua.rbs>"/>
+  <a href="https://instagram.com/c4ua.rbs" />
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>>
