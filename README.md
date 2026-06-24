@@ -10,7 +10,7 @@
 
 I am a Backend Developer.
 
-Currently studying Cybersecurity and expanding my knowledge in low-level and high-performance programming with Rust.  
+Currently studying Cybersecurity and expanding my knowledge in low-level and high-performance programming with Java.  
 
 ---
 
@@ -21,7 +21,6 @@ Currently studying Cybersecurity and expanding my knowledge in low-level and hig
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
   <img src="https://skillicons.dev/icons?i=spring" height="50"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
 </p>
 
 ---
